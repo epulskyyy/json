@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Canon",
+    "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nikon",
+    "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony",
+    "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+  }
+]
