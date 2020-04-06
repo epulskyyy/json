@@ -1,4 +1,5 @@
-[
+{
+  "brand":[
   {
     "id": 1,
     "name": "Canon",
@@ -15,3 +16,4 @@
     "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
   }
 ]
+}
