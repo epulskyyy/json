@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "responseCode": "0000",
+  "description": "SUCCESS",
+  "count": 3,
+  "grand_total_hit": 6,
+  "data": [
+    {
+      "tanggal": "2020-04-23T09:00:17.000Z",
+      "endpoint": "",
+      "total_hit": 2,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T10:02:17.000Z",
+      "endpoint": "",
+      "total_hit": 2,
+      "status": "SUCCESS"
+    },
+    {
+      "tanggal": "2020-04-23T11:04:17.000Z",
+      "endpoint": "",
+      "total_hit": 2,
+      "status": "SUCCESS"
+    },
+  ]
+}
