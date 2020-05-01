@@ -1,1 +1,13 @@
 
+[
+  {
+    "idCategory": 1,
+    "categoryName": "DSLR",
+    "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+  },
+  {
+    "idCategory": 2,
+    "categoryName": "Mirrorless",
+    "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+  }
+]
