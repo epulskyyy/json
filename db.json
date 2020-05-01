@@ -1,30 +1,195 @@
 {
-  "last24":[
-  {
-  "status": "OK",
-  "responseCode": "0000",
-  "description": "SUCCESS",
-  "count": 3,
-  "grand_total_hit": 6,
-  "data": [
+  "products": [
     {
-      "tanggal": "2020-04-23T09:00:17.000Z",
-      "endpoint": "",
-      "total_hit": 2,
-      "status": "SUCCESS"
+      "id": 1,
+      "name": "Canon EOS 800D",
+      "price": 1099000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2017/07/Thumb-Canon-EOS-800D-Kit-EF-S-18-55mm-IS-STM-new.jpg",
+      "detail": "Canon EOS 800D Kit EF-S 18-55mm IS STM – Canon EOS 800D Kit EF-S 18-55mm IS STM memiliki fokus AF tercepat di dunia dengan 0.03sec. Selama pengambilan gambar langsung dengan model DSLR EOS standar ini, anda akan dibantu dengan UI intuitif yang mudah digunakan untuk memandu Anda dalam mengambil gambar yang menarik secara estetis.",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 1,
+        "categoryName": "DSLR",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 1,
+        "name": "Canon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+      }
     },
     {
-      "tanggal": "2020-04-23T10:02:17.000Z",
-      "endpoint": "",
-      "total_hit": 2,
-      "status": "SUCCESS"
+      "id": 2,
+      "name": "Canon EOS 300D",
+      "price": 5999000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/05/jual-kamera-Canon-EOS-3000D-Kit-EF-S-18-55mm-f3.5-5.6-III-harga-murah-400x400.jpg",
+      "detail": "Canon EOS 3000D Kit EF-S 18-55mm f/3.5-5.6 III menawarkan pengalaman DSLR klasik bagi para pengguna kamera DSLR yang baru",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 1,
+        "categoryName": "DSLR",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 1,
+        "name": "Canon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+      }
     },
     {
-      "tanggal": "2020-04-23T11:04:17.000Z",
-      "endpoint": "",
-      "total_hit": 2,
-      "status": "SUCCESS"
+      "id": 3,
+      "name": "Nikon D5500",
+      "price": 6599000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2017/09/jual-kamera-Nikon-D5500-Kit-AF-P-18-55mm-VR-harga-murah-2.jpg",
+      "detail": "Nikon D5500 Kit AF-P 18-55mm VR adalah kamera DSLR dari Nikon yang di lengkapi dengan LCD Touchscreen yang berfungsi memudahkan Anda mengatur setting kamera. Nikon D5500 Kit Lensa AF-P 18-55mm VR memiliki Sensor 24.2 Megapixel dan prosesor gambar EXPEED 4 yang menyajikan hasil foto High-Resolution dan Video Full HD 1080p dengan fitur low-light sensitivity yang menyediakan ISO sampai dengan ISO 25600 dan kecepatan pengambilan gambar 5 fps.",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 1,
+        "categoryName": "DSLR",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 2,
+        "name": "Nikon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+      }
     },
+    {
+      "id": 4,
+      "name": "Nikon D7200",
+      "price": 16999000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2017/09/jual-kamera-Nikon-D7200-Kit-AF-S-18-140mm-f3.5-5.6G-ED-VR-harga-murah-2.jpg",
+      "detail": "Untuk pertama kalinya dengan Nikon D7200 Kit AF-S 18-140mm f/3.5-5.6G ED VR dapat memberikan kualitas gambar yang menggembirakan, kemampuan low-light dan kecepatan DSLR Nikon tersedia dengan built-in Wi-Fi® dan Near Field Communication (NFC)",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 1,
+        "categoryName": "DSLR",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 2,
+        "name": "Nikon",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sony A6400",
+      "price": 13999000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2019/01/jual-kamera-mirrorless-Sony-A6400-Kit-16-50mm-f3.5-5.6-OSS-harga-murah.jpg",
+      "detail": "Stabil, cepat, serbaguna, dan ringkas, Sony A6400 Kit 16-50mm f/3.5-5.6 OSS adalah kamera mirrorless format APS-C yang mengadopsi banyak fitur yang biasanya disediakan untuk jajaran full-frame mereka",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 2,
+        "categoryName": "Mirrorless",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 3,
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sony A5100",
+      "price": 6499000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2015/10/thumb-Sony-A5100-Kit-16-50mm-Hitam.jpg",
+      "detail": "Sony A5100 Kit 16-50mm f/3.5-5.6 OSS Hitam merupakan kamera mirrorless sony berdesain Rangefinder-style dengan layar berukuran 3 inch",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 2,
+        "categoryName": "Mirrorless",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+      },
+      "brand": {
+        "id": 3,
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sony RX0 II",
+      "price": 9499000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/Jual-Sony-RX0-II-Digital-Camera-Harga-Terbaik-dan-Spesifikasi.jpg",
+      "detail": "Sony RX0 II Digital Camera merupakan kamera premium, ultra-compact, dan tangguh dengan set fitur luar biasa untuk stills dan video",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 3,
+        "categoryName": "Action Camera",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/action-camera.png"
+      },
+      "brand": {
+        "id": 3,
+        "name": "Sony",
+        "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-sony.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "GoPro HERO8",
+      "price": 5599000,
+      "image": "https://www.plazakamera.com/wp-content/uploads/2019/10/Jual-GoPro-HERO8-Black-Harga-Terbaik-dan-Spesifikasi.jpg",
+      "detail": "GoPro HERO8 Black merupakan kamera aksi generasi terbaru yang dirancang untuk menangkap rekaman yang halus dan stabil dari setiap petualangan terbaru Anda.",
+      "created": "",
+      "updated": "",
+      "category": {
+        "idCategory": 3,
+        "categoryName": "Action Camera",
+        "categoryImage": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/action-camera.png"
+      },
+      "brand": {
+        "id": 4,
+        "name": "GoPro",
+        "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "DSLR",
+      "image": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+    },
+    {
+      "id": 2,
+      "name": "Mirrorless",
+      "image": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/kamera-digital.png"
+    },
+    {
+      "id": 3,
+      "name": "Action Camera",
+      "image": "https://www.plazakamera.com/wp-content/themes/smartelect_layout3/images/kategori/action-camera.png"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Canon",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Canon-DSLR.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nikon",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Thumbnails-Nikon-DSLR.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony",
+      "image": "https://www.plazakamera.com/wp-content/uploads/2018/10/Mirrorless-SONY.jpg"
+    },
+    {
+      "id": 4,
+      "name": "GoPro",
+      "image": "https://www.plazakamera.com/wp-content/uploads/action-camera-gopro.jpg"
+    }
   ]
-}]
 }
